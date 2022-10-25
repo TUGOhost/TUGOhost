@@ -13,4 +13,4 @@
 ## 📫 Reach Me
 Blog: [blog](https://tugohost.github.io/)
 
-Email: [mail](mailto:huo4nbtf@duck.com)
+Email: [mail](mailto:tu9oh0st@duck.com)
