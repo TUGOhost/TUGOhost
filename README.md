@@ -16,4 +16,4 @@ Blog: [blog](https://tugohost.github.io/)
 
 Gist: [Gist](https://gist.github.com/TUGOhost)
 
-Email: [mail](mailto:tu9oh0st@duck.com)
+Email: [mail](mailto:huo4nbtf@duck.com)
